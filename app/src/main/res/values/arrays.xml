@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listaDeFrasesArray">
+        <item>@string/frase1</item>
+        <item>@string/frase2</item>
+        <item>@string/frase3</item>
+        <item>@string/frase4</item>
+    </string-array>
+
+</resources>
